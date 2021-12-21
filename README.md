@@ -1,0 +1,5 @@
+# CameraSample
+
+Changes in Fixed Bug
+
+https://github.com/Praveen101997/CameraSample/commit/0b35760e7a8a928c42b41374eba1563147328507#diff-ece7a480ab2083c176bd3c579b59d98b17f8de64224a4b267779470b7cdb5000
